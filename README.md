@@ -25,7 +25,7 @@ windycantik
 1. Clone This Repository:
 
    ```bash
-   git clone https://github.com/windyyid/mclight.git
+   git clone https://github.com/windyyyid/MCLIGHT.git
    cd mclight
    ```
 
